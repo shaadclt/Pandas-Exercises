@@ -1,3 +1,3 @@
 # Pandas Exercises
 
-Pandas exercise for practise and learning purpose.
+Pandas exercise for practice and learning purpose.
